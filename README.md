@@ -80,13 +80,18 @@
 <br/>  
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srjsunny&show_icons=true&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="srjsunny" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srjsunny&show_icons=true&locale=en&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="srjsunny" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srjsunny&background=904e95&currStreakLabel=FFFFFF&fire=FFFFFF&ring=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="srjsunny" />
+</p>
 
 
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srjsunny&show_icons=true&locale=en&layout=compact" alt="srjsunny" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srjsunny&show_icons=true&locale=en" alt="srjsunny" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srjsunny&" alt="srjsunny" /></p>
