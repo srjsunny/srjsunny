@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web3**
 
-- 📝 I regularly write articles on [Big data frameworks](Big data frameworks)
+- 📝 I regularly write articles on **Big Data Frameworks**
 
 - 💬 Ask me about **Spark, Tensorflow,Pytorch, Hadoop**
 
