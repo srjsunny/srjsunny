@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srjsunny&label=Profile%20views&color=0e75b6&style=flat" alt="srjsunny" /> </p>
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **Web3 + RUST**
 
 - 📝 I regularly write articles on **Big Data Frameworks**
 
-- 💬 Ask me about **Spark, Tensorflow,Pytorch, Hadoop, SpringBoot**
+- 💬 Ask me about **Spark,Pytorch, Hadoop, SpringBoot**
 
 - 📫 How to reach me **srjsunny123@gmail.com**
 
@@ -42,6 +42,8 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
+<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
+
 </div>
 
 </td><td valign="top" width="33%">
